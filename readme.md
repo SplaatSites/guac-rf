@@ -1,4 +1,4 @@
-# <img width="36" height="36" alt="icon" src="https://github.com/user-attachments/assets/d86dfbbf-a12b-4cc5-843f-0efa84047eb9" /> guac-rf (Guac: Rodrigo's Fork): NDS, GBA, GBC, DMG Emulator
+# <img width="36" height="36" alt="icon" src="https://github.com/user-attachments/assets/d86dfbbf-a12b-4cc5-843f-0efa84047eb9" /> guac: NDS, GBA, GBC, DMG Emulator
 
 Guac is an Emulator written in golang for Gameboy, Gameboy Color, Gameboy
 Advance, and Nintendo DS handheld consoles.
